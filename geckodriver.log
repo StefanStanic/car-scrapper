@@ -1,0 +1,465 @@
+1596130683950	geckodriver	INFO	Listening on 127.0.0.1:44937
+1596130683958	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3vr143"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596130687521	Marionette	INFO	Listening on port 43369
+1596130687577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596130699820	Marionette	INFO	Stopped listening on port 43369
+1596130822644	geckodriver	INFO	Listening on 127.0.0.1:50369
+1596130822649	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei85ESH"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596130825679	Marionette	INFO	Listening on port 42569
+1596130825761	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596130892009	geckodriver	INFO	Listening on 127.0.0.1:38767
+1596130892015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9uR46h"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596130894858	Marionette	INFO	Listening on port 43433
+1596130894924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596130939738	geckodriver	INFO	Listening on 127.0.0.1:46425
+1596130939744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGHVACq"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596130942598	Marionette	INFO	Listening on port 37635
+1596130942655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596131000253	geckodriver	INFO	Listening on 127.0.0.1:55015
+1596131000259	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGnQci3"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596131003348	Marionette	INFO	Listening on port 44725
+1596131003395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596131284445	Marionette	INFO	Stopped listening on port 44725
+1596131493687	geckodriver	INFO	Listening on 127.0.0.1:59157
+1596131493692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMHQ13O"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596131496525	Marionette	INFO	Listening on port 41867
+1596131496602	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://s0.2mdn.net/9419465/1596008979372/index.html, line 276: TypeError: studio.Enabler is undefined
+1596131533965	geckodriver	INFO	Listening on 127.0.0.1:47165
+1596131533971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile91mcLd"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596131536980	Marionette	INFO	Listening on port 39169
+1596131536998	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://s0.2mdn.net/9419465/1596008979372/index.html, line 276: TypeError: studio.Enabler is undefined
+1596131563162	Marionette	INFO	Stopped listening on port 39169
+1596131638667	geckodriver	INFO	Listening on 127.0.0.1:36577
+1596131638674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile238gTb"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596131641711	Marionette	INFO	Listening on port 38855
+1596131641782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.osiguranik.com/wp-content/plugins/gdpr-cookie-compliance/dist/scripts/main.js?ver=4.2.4, line 1: Error: remote script failed https://www.osiguranik.com/wp-content/plugins/gdpr-cookie-compliance/dist/scripts/lity.js
+1596131674714	Marionette	INFO	Stopped listening on port 38855
+1596131677048	geckodriver	INFO	Listening on 127.0.0.1:36961
+1596131677053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7p3pTE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596131680138	Marionette	INFO	Listening on port 38435
+1596131680191	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596131733581	geckodriver	INFO	Listening on 127.0.0.1:33857
+1596131733588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSHAAZ2"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596131737212	Marionette	INFO	Listening on port 42647
+1596131737306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596131765341	geckodriver	INFO	Listening on 127.0.0.1:41713
+1596131765350	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewgISiM"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596131768747	Marionette	INFO	Listening on port 33845
+1596131768780	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596131783262	Marionette	INFO	Stopped listening on port 33845
+1596131845327	geckodriver	INFO	Listening on 127.0.0.1:40703
+1596131845337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezdaV11"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596131848176	Marionette	INFO	Listening on port 44141
+1596131848255	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596131909984	geckodriver	INFO	Listening on 127.0.0.1:46051
+1596131909991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKjZDUm"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596131913433	Marionette	INFO	Listening on port 33341
+1596131913613	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596131946925	geckodriver	INFO	Listening on 127.0.0.1:59251
+1596131946939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileafRBWq"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596131950855	Marionette	INFO	Listening on port 37671
+1596131950865	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596131976204	geckodriver	INFO	Listening on 127.0.0.1:40781
+1596131977216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehra1hV"
+1596131977873	Marionette	INFO	Stopped listening on port 37671
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596131981150	Marionette	INFO	Listening on port 42403
+1596131981229	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1596131999870	Marionette	INFO	Stopped listening on port 42403
+1596132064848	geckodriver	INFO	Listening on 127.0.0.1:48541
+1596132064856	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerIxDf8"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596132068287	Marionette	INFO	Listening on port 42887
+1596132068373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1596132175065	geckodriver	INFO	Listening on 127.0.0.1:54605
+1596132176098	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOtcY9z"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596132179849	Marionette	INFO	Listening on port 42927
+1596132179915	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://s0.2mdn.net/9419465/1596008979372/index.html, line 276: TypeError: studio.Enabler is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1596132376113	geckodriver	INFO	Listening on 127.0.0.1:53019
+1596132377173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecXiazt"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596132380479	Marionette	INFO	Listening on port 37617
+1596132380489	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1596132787469	geckodriver	INFO	Listening on 127.0.0.1:60343
+1596132788481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2b3GJw"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596132791660	Marionette	INFO	Listening on port 35703
+1596132791751	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.polovniautomobili.com/auto-oglasi/pretraga?page=1&sort=basic&brand=volkswagen&model%5B0%5D=golf-5&model%5B1%5D=golf-plus&city=Subotica%7C46.097281%7C19.669620&city_distance=75&showOldNew=all&without_price=1, line 1400: TypeError: $(...).SumoSelect is not a function
+JavaScript error: https://www.polovniautomobili.com/auto-oglasi/pretraga?page=1&sort=basic&brand=volkswagen&model%5B0%5D=golf-5&model%5B1%5D=golf-plus&city=Subotica%7C46.097281%7C19.669620&city_distance=75&showOldNew=all&without_price=1, line 3739: TypeError: $(...).SumoSelect is not a function
+JavaScript error: https://www.polovniautomobili.com/auto-oglasi/pretraga?page=1&sort=basic&brand=volkswagen&model%5B0%5D=golf-5&model%5B1%5D=golf-plus&city=Subotica%7C46.097281%7C19.669620&city_distance=75&showOldNew=all&without_price=1, line 3806: TypeError: PA.search is undefined
+JavaScript error: https://www.polovniautomobili.com/auto-oglasi/pretraga?page=1&sort=basic&brand=volkswagen&model%5B0%5D=golf-5&model%5B1%5D=golf-plus&city=Subotica%7C46.097281%7C19.669620&city_distance=75&showOldNew=all&without_price=1, line 4317: TypeError: $(...).SumoSelect is not a function
+1596136294861	Marionette	INFO	Stopped listening on port 44141
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+1596179423302	Marionette	INFO	Stopped listening on port 33341
+1596179464387	Marionette	INFO	Stopped listening on port 42647
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofile7p3pTE/protections.sqlite
+1596179468056	Marionette	INFO	Stopped listening on port 38435
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1596179470275	Marionette	INFO	Stopped listening on port 41867
+1596179473316	Marionette	INFO	Stopped listening on port 37635
+1596179475988	Marionette	INFO	Stopped listening on port 43433
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1596179479957	Marionette	INFO	Stopped listening on port 42569
+1596216863340	geckodriver	INFO	Listening on 127.0.0.1:36127
+1596216864346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecQ0PWn"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596216870132	Marionette	INFO	Listening on port 41357
+1596216870194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596217134416	geckodriver	INFO	Listening on 127.0.0.1:40749
+1596217134423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWFD1tv"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596217136881	Marionette	INFO	Listening on port 40671
+1596217136930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1596218298592	geckodriver	INFO	Listening on 127.0.0.1:33935
+1596218298598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLZsilg"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596218300927	Marionette	INFO	Listening on port 42107
+1596218301043	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://s0.2mdn.net/9419465/1596008979372/index.html, line 276: TypeError: studio.Enabler is undefined
+1596218378201	geckodriver	INFO	Listening on 127.0.0.1:54769
+1596218378206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilessOQU1"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596218380998	Marionette	INFO	Listening on port 39149
+1596218381018	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1596218493570	geckodriver	INFO	Listening on 127.0.0.1:59249
+1596218493577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePJ55u1"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596218496385	Marionette	INFO	Listening on port 45337
+1596218496423	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://s0.2mdn.net/9419465/1596008979372/index.html, line 276: TypeError: studio.Enabler is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1596219415355	geckodriver	INFO	Listening on 127.0.0.1:36199
+1596219415361	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8kd6Tc"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596219417477	Marionette	INFO	Listening on port 43647
+1596219417568	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1596219473131	geckodriver	INFO	Listening on 127.0.0.1:38161
+1596219473136	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3jxAOx"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596219475608	Marionette	INFO	Listening on port 35205
+1596219475658	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1596219493570	geckodriver	INFO	Listening on 127.0.0.1:36323
+1596219493576	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMSTdCJ"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596219496227	Marionette	INFO	Listening on port 40869
+1596219496284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1596219617209	geckodriver	INFO	Listening on 127.0.0.1:47859
+1596219617215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehjdr5V"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596219619670	Marionette	INFO	Listening on port 37041
+1596219619724	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1596219627328	geckodriver	INFO	Listening on 127.0.0.1:44515
+1596219627334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKWlgri"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596219629775	Marionette	INFO	Listening on port 38687
+1596219629841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://s0.2mdn.net/9419465/1596008979372/index.html, line 276: TypeError: studio.Enabler is undefined
+1596219762617	geckodriver	INFO	Listening on 127.0.0.1:51827
+1596219762622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevxYYjb"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596219765193	Marionette	INFO	Listening on port 40765
+1596219765231	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.ampproject.org/rtv/012007210634000/amp4ads-v0.js, line 28: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/icon.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012007210634000/amp4ads-v0.js, line 28: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/sr.png​​​
+JavaScript error: https://s0.2mdn.net/9419465/1596008979372/index.html, line 276: TypeError: studio.Enabler is undefined
+JavaScript error: https://tpc.googlesyndication.com/sodar/Enqz_20U.html, line 11: uncaught exception: 7
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1596221296475	geckodriver	INFO	Listening on 127.0.0.1:38233
+1596221296481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8gyTgv"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596221299049	Marionette	INFO	Listening on port 36727
+1596221299114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1596221533010	geckodriver	INFO	Listening on 127.0.0.1:60087
+1596221533016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1vnLZL"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596221535598	Marionette	INFO	Listening on port 40387
+1596221535644	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1596221558920	geckodriver	INFO	Listening on 127.0.0.1:51979
+1596221558926	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEUuYjJ"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596221561541	Marionette	INFO	Listening on port 46221
+1596221561638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://s0.2mdn.net/9419465/1596008979372/index.html, line 276: TypeError: studio.Enabler is undefined
+JavaScript error: https://s0.2mdn.net/9419465/1596008979372/index.html, line 276: TypeError: studio.Enabler is undefined
+JavaScript error: https://s0.2mdn.net/9419465/1596008979372/index.html, line 276: TypeError: studio.Enabler is undefined
+JavaScript error: https://s0.2mdn.net/9419465/1596008979372/index.html, line 276: TypeError: studio.Enabler is undefined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1596222186987	geckodriver	INFO	Listening on 127.0.0.1:32841
+1596222186993	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewy8w51"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596222189283	Marionette	INFO	Listening on port 39145
+1596222189315	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://s0.2mdn.net/9419465/1596008979372/index.html, line 276: TypeError: studio.Enabler is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1596222510314	geckodriver	INFO	Listening on 127.0.0.1:45511
+1596222510320	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT1g2HF"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596222512854	Marionette	INFO	Listening on port 45227
+1596222512927	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 400: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1596222547565	geckodriver	INFO	Listening on 127.0.0.1:32973
+1596222547571	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerc4ywI"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596222550470	Marionette	INFO	Listening on port 34203
+1596222550500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://s0.2mdn.net/9419465/1596008979372/index.html, line 276: TypeError: studio.Enabler is undefined
+JavaScript error: https://tpc.googlesyndication.com/sodar/Enqz_20U.html, line 11: uncaught exception: 7
+JavaScript error: https://s0.2mdn.net/9419465/1596008979372/index.html, line 276: TypeError: studio.Enabler is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1596222637495	Marionette	INFO	Stopped listening on port 34203
+1596222779139	geckodriver	INFO	Listening on 127.0.0.1:59059
+1596222779145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0TEfmw"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596222782137	Marionette	INFO	Listening on port 45799
+1596222782176	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://s0.2mdn.net/9419465/1596008979372/index.html, line 276: TypeError: studio.Enabler is undefined
+1596222817729	Marionette	INFO	Stopped listening on port 45799
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1596223179109	geckodriver	INFO	Listening on 127.0.0.1:53293
+1596223179114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJFpzOm"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596223181664	Marionette	INFO	Listening on port 40523
+1596223181729	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
